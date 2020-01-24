@@ -73,5 +73,6 @@ Enter choice [ 1 - 44]
 Thank you [Vikas Chaudhary](https://twitter.com/OffensiveHunter) [STOK](https://www.stokfredrik.com/) [NahamSec](https://www.nahamsec.com/) [JHaddix](https://twitter.com/Jhaddix) for helping bugbounty community.
 Also I would like to thank all developers who made those tools.
 
-##### © Copyright and License
+#### © Copyright and License
+-----------------------------
 Code copyright 2020 R0X4R. Code released under the MIT license.
