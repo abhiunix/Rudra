@@ -37,28 +37,28 @@ chmod +x Rudra.sh
               !! MADE IN BHARAT !!
 
 Tools:
-   1. Install dependencies [GO, Python3, Ruby, Rust, Chromium, etc]
-   2. Fast web fuzzer (ffuf)
+   1. Install dependencies [GO, Python3, Ruby, Rust, Chromium, more...]
+   2. Amass
    3. Dirsearch
-   4. Findomain
-   5. Httprobe
-   6. Masscan
-   7. Nmap
-   8. Sublist3r
-   9. WhatWeb
-  10. Subjack
-  11. Amass
-  12. Waybackurls
-  13. GraphQLmap
-  14. Meg
-  15. GitGraber
-  16. getJS
-  17. Imago
-  18. LinkFinder
-  19. truffleHog
-  20. MassDNS
-  21. FinalRecon
-  22. EyeWitness
+   4. EyeWitness
+   5. Fast web fuzzer (ffuf)
+   6. Findomain
+   7. FinalRecon
+   8. getJS
+   9. GitGraber
+  10. GraphQLmap
+  11. Httprobe
+  12. Imago
+  13. LinkFinder
+  14. Masscan
+  15. MassDNS
+  16. Meg
+  17. Nmap
+  18. Sublist3r
+  19. Subjack
+  20. truffleHog
+  21. WhatWeb
+  22. Waybackurls
 
 
   33. Install all tools
