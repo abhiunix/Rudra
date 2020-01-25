@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="https://github.com/R0X4R/Rudra/blob/master/rudra.png"><br/>
+Third Eye of your machine.<br/> <a href="https://eshansingh.in/">R0X4R</a></p>
 
 [![MADEINBHARAT](https://github.com/R0X4R/D4rkXSS/blob/master/MadeInBharat.png)]() [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]() [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)]()
 ## RUDRA
