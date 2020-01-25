@@ -79,4 +79,4 @@ Also I would like to thank all developers who made those tools.
 
 -----------------------------
 #### © Copyright and License
-Code copyright 2020 Eshan Singh. Code released under the (MIT license)[https://github.com/R0X4R/Rudra/blob/master/LICENSE].
+Code copyright 2020 Eshan Singh. Code released under the [MIT license](https://github.com/R0X4R/Rudra/blob/master/LICENSE).
