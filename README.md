@@ -12,8 +12,8 @@ Information Gathering is the act of gathering different kinds of information aga
  ```
 git clone https://github.com/R0X4R/Rudra.git
 cd Rudra/ 
-chmod +x Rudra.sh
-./Rudra.sh
+chmod +x rudra.sh
+./rudra.sh
 ```
 ##### Tools
 ```Fast web fuzzer (ffuf)``` ```Dirsearch``` ```Findomain``` ```Httprobe``` ```Masscan``` ```Nmap``` ```Sublist3r``` ```WhatWeb``` ```Subjack``` ```Amass``` ```Waybackurls``` ```GraphQLmap``` ```Meg``` ```GitGraber``` ```getJS``` ```Imago```  ```LinkFinder```  ```truffleHog```   ```MassDNS```  ```FinalRecon```  ```EyeWitness```  
@@ -79,4 +79,4 @@ Also I would like to thank all developers who made those tools.
 
 -----------------------------
 #### © Copyright and License
-Code copyright 2020 R0X4R. Code released under the MIT license.
+Code copyright 2020 Eshan Singh. Code released under the (MIT license)[https://github.com/R0X4R/Rudra/blob/master/LICENSE].
