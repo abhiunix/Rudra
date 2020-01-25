@@ -34,7 +34,7 @@ chmod +x Rudra.sh
       ░░   ░  ░░░ ░ ░  ░ ░  ░   ░░   ░   ░   ▒
        ░        ░        ░       ░           ░  ░
                    ░
-        Rudra will give your machine recon power
+           Third Eye of your machine
             BY: R0X4R - ESHAN SINGH
 
               !! MADE IN BHARAT !!
@@ -42,26 +42,27 @@ chmod +x Rudra.sh
 Tools:
    1. Install dependencies [GO, Python3, Ruby, Rust, Chromium, more...]
    2. Amass
-   3. Dirsearch
-   4. EyeWitness
-   5. Fast web fuzzer (ffuf)
-   6. Findomain
-   7. FinalRecon
-   8. getJS
-   9. GitGraber
-  10. GraphQLmap
-  11. Httprobe
-  12. Imago
-  13. LinkFinder
-  14. Masscan
-  15. MassDNS
-  16. Meg
-  17. Nmap
-  18. Sublist3r
-  19. Subjack
-  20. truffleHog
-  21. WhatWeb
-  22. Waybackurls
+   3. Aquatone
+   4. Dirsearch
+   5. EyeWitness
+   6. Fast web fuzzer (ffuf)
+   7. Findomain
+   8. FinalRecon
+   9. getJS
+  10. GitGraber
+  11. GraphQLmap
+  12. Httprobe
+  13. Imago
+  14. LinkFinder
+  15. Masscan
+  16. MassDNS
+  17. Meg
+  18. Nmap
+  19. Sublist3r
+  20. Subjack
+  21. truffleHog
+  22. WhatWeb
+  23. Waybackurls
 
 
   33. Install all tools
@@ -72,7 +73,7 @@ Enter choice [ 1 - 44]
 ###### You need to install the dependencies before installing the tools.
 ###### Feel free to add tools in the script.
 
-#### Thanks
+#### Acknowledgement
 Thank you [Vikas Chaudhary](https://twitter.com/OffensiveHunter) [STOK](https://www.stokfredrik.com/) [NahamSec](https://www.nahamsec.com/) [JHaddix](https://twitter.com/Jhaddix) for helping bugbounty community.
 Also I would like to thank all developers who made those tools.
 
