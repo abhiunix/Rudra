@@ -4,9 +4,9 @@ Third Eye of your machine.<br/> <a href="https://eshansingh.in/">R0X4R</a></p>
 
 [![MADEINBHARAT](https://github.com/R0X4R/D4rkXSS/blob/master/MadeInBharat.png)]() [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]() [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)]()
 ## RUDRA
-Rudra is a script written in Bash, it is intended to install all reconnaissance and information gathering tools. This tool have the collection of all recon tools which automatically installs all the tools you need in recon for bug hunting.
+Rudra is a script written in Bash, it is intended to install all reconnaissance and information-gathering tools. This tool has the collection of all recon tools which automatically install all the tools you need in recon for bug hunting.
 ##### Recon
-Information Gathering is the act of gathering different kinds of information against the targeted victim or system. Information gathering is not just a phase of security testing; it is an art which every penetration-tester (pen-tester) and hacker should master for a better experience in penetration testing.
+Information Gathering is the act of gathering different kinds of information against the targeted victim or system. Information gathering is not just a phase of security testing; it is an art that every penetration-tester (pen-tester) and hacker should master for a better experience in penetration testing.
 ### Setup
 ##### Installation process
  ```
@@ -74,8 +74,7 @@ Enter choice [ 1 - 44]
 ###### Feel free to add tools in the script.
 
 #### Acknowledgement
-Thank you [Vikas Chaudhary](https://twitter.com/OffensiveHunter) [STOK](https://www.stokfredrik.com/) [NahamSec](https://www.nahamsec.com/) [JHaddix](https://twitter.com/Jhaddix) for helping bugbounty community.
-Also I would like to thank all developers who made those tools.
+Thank you [Vikas Chaudhary](https://twitter.com/OffensiveHunter) [STOK](https://www.stokfredrik.com/) [NahamSec](https://www.nahamsec.com/) [JHaddix](https://twitter.com/Jhaddix) for helping bug bounty community. Also, I would like to thank all developers who made those tools.
 
 -----------------------------
 #### © Copyright and License
